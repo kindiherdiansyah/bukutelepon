@@ -12,7 +12,8 @@ function pushData(){
         keterangan : getValue("keterangan")
     }
 
-    postWithToken(urlPOST, data, AmbilResponse);
+    // postWithToken(urlPOST, data, AmbilResponse);
+    postWithToken(urlPOST,"Token","UHU", data, AmbilResponse);
 
 }
 

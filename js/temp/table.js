@@ -12,7 +12,7 @@ export let isiTabel =
         </div>
     </th>
     <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-left">#NOHP#</th>
-    <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-center">#ALAMAT#</th>
+    <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-800 text-left">#ALAMAT#</th>
     <th class="whitespace-nowrap px-4 bg-white text-sm font-medium text-coolGray-500 text-left">#KETERANGAN#</th>
 
     <th class="whitespace-nowrap pr-4 bg-white text-sm font-medium text-coolGray-800">
