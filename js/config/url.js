@@ -1,0 +1,1 @@
+export let urlAPI = "https://go-kontak-2997a9d9d62c.herokuapp.com/kontak";
