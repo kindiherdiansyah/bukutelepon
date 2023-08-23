@@ -18,6 +18,8 @@ function isiRow(value) {
         isiTabel.replace("#NAMAKONTAK#", value.nama_kontak)
             .replace("#NOHP#", value.nomor_hp)
             .replace("#ALAMAT#", value.alamat)
-            .replace("#KETERANGAN#", value.keterangan);
+            .replace("#KETERANGAN#", value.keterangan)
+            .replace("#IDEDIT#", value._id)
+            .replace("#IDHAPUS#", value._id);
     addInner("iniTabel", content);
 }
